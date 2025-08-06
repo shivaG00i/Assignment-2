@@ -1,0 +1,113 @@
+
+
+
+
+
+✨ Question 1  
+Write a program that prints all numbers from 1 to 100,  
+but **replaces** multiples of 3 with `"Fizz"`, multiples of 5 with `"Buzz"`, and multiples of both 3 and 5 with `"FizzBuzz"`.
+
+---
+
+✨ Question 2  
+Write a program that finds the **largest number** entered by the user.  
+Ask the user to **enter 7 numbers**, use a **for loop**, and print the largest.
+
+---
+
+✨ Question 3  
+Write a program to print the following pattern using **nested loops**:
+```
+5 5 5 5 5
+4 4 4 4
+3 3 3
+2 2
+1
+```
+
+---
+
+✨ Question 4  
+Write a program that simulates a **Guessing Game**:  
+Pick a secret number, and keep asking the user to guess until they get it right.
+
+---
+
+✨ Question 5  
+Write a program that prints all **2-digit numbers** whose sum of digits is exactly **10**.  
+(Example: 19 → 1 + 9 = 10)
+
+---
+
+✨ Question 6  
+Write a program using a **for loop** that calculates the **sum of digits** of a given number.
+
+---
+
+✨ Question 7  
+Write a program to print all **palindrome numbers** between 100 and 200.  
+(A number is a palindrome if it reads the same backward.)
+
+---
+
+✨ Question 8  
+Write a program to create a **right-angled triangle** using a character entered by the user.
+
+Example:
+```
+Enter character: $
+Output:
+$
+$$
+$$$
+$$$$
+```
+
+---
+
+✨ Question 9  
+Write a program that asks the user to enter numbers until they enter `0`,  
+then prints the **total sum** and **average** of all entered numbers.
+
+---
+
+✨ Question 10  
+Write a program that prints all numbers between 1 and 500 that are divisible by **7** or **11**.
+
+---
+
+✨ Question 11  
+Write a program to print this pattern (numeric pyramid):
+```
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+```
+
+---
+
+✨ Question 12  
+Write a program to calculate the **product of odd numbers** between 1 and 15 using a **while loop**.
+
+---
+
+✨ Question 13  
+Write a program that reverses a number using a **while loop** without using str() or reversed().
+
+Example:  
+Input: 1234  
+Output: 4321
+
+---
+
+✨ Question 14  
+Write a program to print all prime numbers from 2 to 50 using a **nested for loop**.
+
+---
+
+✨ Question 15  
+Write a program that asks for 10 integers and  
+then prints how many were **positive**, **negative**, and **zero**.
+
