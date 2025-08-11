@@ -4,17 +4,7 @@
 
 This collection contains classic Python logic exercises designed to strengthen your skills in **loops, conditionals, pattern printing, and number manipulation**.
 
----
 
-### ✅ What You'll Learn:
-
-* Looping constructs (`for`, `while`)
-* Nested loops and pattern generation
-* Condition checks and logic
-* User input handling
-* Number operations (digit sum, reversal, prime checks)
-
----
 
 ### 📌 Problems Covered:
 
@@ -36,14 +26,4 @@ This collection contains classic Python logic exercises designed to strengthen y
 
 ---
 
-### 🔧 How to Use
 
-Each question can be implemented in its own Python file or function. Great for:
-
-* Practice assignments
-* Teaching and tutorials
-* Building foundational logic
-
----
-
-Would you like me to combine this with the other README summaries into one full document?
